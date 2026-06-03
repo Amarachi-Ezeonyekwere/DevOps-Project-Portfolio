@@ -6,7 +6,7 @@ AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, and Observability.
 
 ---
 
-##  Project 2: Azure DevOps Pipeline — EpicBook 2-Tier App
+##  Project 1: Azure DevOps Pipeline — EpicBook 2-Tier App
 
 Built an end-to-end Azure DevOps CI/CD pipeline, deploying a Node.js 
 application with Terraform-provisioned infrastructure and Ansible for 
@@ -18,7 +18,7 @@ configuration management.
 
 ---
 
-## 🚀 Project 3: 3-Tier Azure Book Review Application
+##  Project 2: 3-Tier Azure Book Review Application
 
 Designed and deployed a 3-tier architecture on Azure using Terraform 
 modules covering networking, MySQL Flexible Server database, internal 
