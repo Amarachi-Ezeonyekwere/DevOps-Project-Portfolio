@@ -6,7 +6,7 @@ AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, GitOps, and Observabilit
 
 ---
 
-##  Project 1: Azure DevOps Pipeline — EpicBook 2-Tier App
+##  Project 1: Golang application containerized with Docker using a multi-stage build, deployed with an automated CI/CD pipeline integrated with Trivy 
 
 A URL Shortener written in Go, containerized with Docker using a multi-stage build, 
 and pushed to AWS ECR via a fully automated GitHub Actions CI/CD pipeline with integrated Trivy security scanning.
