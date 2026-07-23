@@ -1,4 +1,4 @@
-#  Cloud & DevOps Projects Portfolio
+#  DevOps Projects Portfolio
 
 Welcome to my curated collection of my hands-on Cloud and DevOps projects spanning 
 AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, GitOps, and Observability.
