@@ -18,14 +18,18 @@ tooling, and decision-making that goes into a real pipeline.
 
 🔗 [View Project Repository](https://github.com/Amarachi-Ezeonyekwere/go-url-shortener-cicd-aws)
 
+---
+
 ##  Project 2: Cloud-Native PetClinic Platform 
-AWS · EKS · Terraform · ArgoCD · Helm · GitHub Actions · Spring Boot
+
 
 Architected and deployed a production-grade cloud-native platform for a 7-service Spring Boot microservices application on AWS, demonstrating end-to-end DevOps and platform engineering ownership.
 
 🔗 [View Project Repository](https://github.com/Amarachi-Ezeonyekwere/cloud-native-petclinic-platform)
 
 **Tech Stack:** AWS | Docker | EKS | Terraform | Helm | GitHub Actions | Spring Boot | ArgoCD | Prometheus & Grafana | Zipkin | Loki
+
+---
 
 ##  Project 3: Azure DevOps Pipeline — EpicBook 2-Tier App
 
