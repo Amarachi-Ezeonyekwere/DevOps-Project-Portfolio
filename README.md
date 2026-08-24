@@ -32,11 +32,11 @@ Architected and deployed a production-grade cloud-native platform for a 7-servic
 ---
 
 
-## Project 3: KoloKipa — Full-Stack African Savings Circle Platform
+## Project 3: KoloKipa: Full-Stack African Savings Circle Platform
 
 Designing and building a full-stack platform for traditional African 
 rotating savings circles (Esusu, Chama, Stokvel, Tontine) from the ground 
-up — architecture, domain modeling, API design, and frontend — before 
+up, architecture, domain modeling, API design, and frontend — before 
 Carrying it through a production-grade DevSecOps pipeline to AWS.
 
 Unlike most portfolio projects that start from a cloned codebase, KoloKipa 
