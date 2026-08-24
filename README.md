@@ -12,7 +12,7 @@ A URL Shortener written in Go, containerized with Docker using a multi-stage bui
 and pushed to AWS ECR via a fully automated GitHub Actions CI/CD pipeline with integrated Trivy security scanning.
 
 This project was built as a deliberate, hands-on DevOps portfolio piece, not just to deploy an app, but to practise the thinking, 
-tooling, and decision-making that goes into a real pipeline.
+Tooling and decision-making that go into a real pipeline.
 
 **Tech Stack:** Golang | Docker | Github Actions | Terraform | AWS
 
@@ -31,7 +31,28 @@ Architected and deployed a production-grade cloud-native platform for a 7-servic
 
 ---
 
-##  Project 3: Azure DevOps Pipeline — EpicBook 2-Tier App
+
+## Project 3: KoloKipa — Full-Stack African Savings Circle Platform
+
+Designing and building a full-stack platform for traditional African 
+rotating savings circles (Esusu, Chama, Stokvel, Tontine) from the ground 
+up — architecture, domain modeling, API design, and frontend — before 
+Carrying it through a production-grade DevSecOps pipeline to AWS.
+
+Unlike most portfolio projects that start from a cloned codebase, KoloKipa 
+is built and owned end-to-end solo: Spring Boot REST API, Next.js 
+frontend, Flyway-versioned PostgreSQL schema, fully containerized, with 
+CI/CD, security scanning, and ECS Fargate deployment as part of the same 
+delivery pipeline.
+
+**Tech Stack:** Java | Spring Boot | Next.js | TypeScript | PostgreSQL | 
+Flyway | Docker | GitHub Actions | Terraform | AWS ECS Fargate
+
+🔗 [View Project Repository](https://github.com/Amarachi-Ezeonyekwere/kolokipa-app)
+
+---
+
+##  Project 4: Azure DevOps Pipeline — EpicBook 2-Tier App
 
 Built an end-to-end Azure DevOps CI/CD pipeline, deploying a Node.js 
 application with Terraform-provisioned infrastructure and Ansible for 
@@ -43,16 +64,5 @@ configuration management.
 
 ---
 
-##  Project 4: 3-Tier Azure Book Review Application
-
-Designed and deployed a 3-tier architecture on Azure using Terraform 
-modules covering networking, MySQL Flexible Server database, internal 
-ALB and Application Gateway.
-
-**Tech Stack:** Azure | Terraform | MySQL | Application Gateway
-
-🔗 [View Project Repository](https://github.com/Amarachi-Ezeonyekwere/azure-three-tier-terraform)
-
----
 
 *More projects coming soon as I continue building in public.*
